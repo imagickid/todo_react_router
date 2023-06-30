@@ -1,14 +1,24 @@
 {
   "todos": [
     {
-      "title": "Zen mode",
-      "checked": false,
+      "title": "AAPLE",
+      "checked": true,
       "id": 1
     },
     {
-      "title": "Yandex",
+      "title": "yahoo.com",
       "checked": true,
-      "id": 2
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "Fly high",
+      "checked": false
+    },
+    {
+      "id": 5,
+      "title": "Zen mode",
+      "checked": false
     }
   ]
 }

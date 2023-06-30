@@ -12,6 +12,20 @@ h1 {
 .content {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
+	padding: 2rem 4rem 2rem 4rem;
+}
+
+.listItems {
+	list-style: none;
+}
+
+.listitem {
+	text-decoration: none;
+	color: #fff;
+}
+
+.listitem:hover {
+	text-decoration: underline;
 }
 
 .label {
